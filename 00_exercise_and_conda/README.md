@@ -1,0 +1,1 @@
+There was no lecture during the first week. We have a take home exercise that should help you brush up Python and PyTorch. These are are the workhorses of modern day LLM development and deployment.

@@ -1,0 +1,10 @@
+torch
+dataclasses
+numpy<2
+pandas
+scikit-learn
+matplotlib
+ipython
+jupyter
+transformers
+pyarrow
