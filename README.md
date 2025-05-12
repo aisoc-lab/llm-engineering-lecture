@@ -21,12 +21,12 @@ Every Monday between 08:30 - 12:00 in GD 04/620. Each lecture will be split as f
 4. 45 min lecture
 5. 45 min programming exercise
 
-| Lecture # |         Title         | 
-| --------- | --------------------- |
-| 1         | [Introduction](01_intro)      |
-| 2         | [The Transformer Architecture](02_transformer_architecture) |
-| 3         | [Efficient Inference: Intro to Quantization](03_efficient_inference_part_1) |
-| 4         | [Efficient Inference: Deeper Look into Quantization](04_efficient_inference_part_2) |
+|    Date    |         Title         | 
+| ---------- | --------------------- |
+| 2025-04-14 | [Introduction](01_intro)      |
+| 2025-04-28 | [The Transformer Architecture](02_transformer_architecture) |
+| 2025-05-05 | [Efficient Inference: Intro to Quantization](03_efficient_inference_part_1) |
+| 2025-05-12 | [Efficient Inference: Deeper Look into Quantization](04_efficient_inference_part_2) |
 
 ## Contact
 The course is taught by [Zahra Dehghanighobadi](https://informatik.rub.de/aisoc/people/dehghanighobadi/), [Elisabeth Kirsten](https://informatik.rub.de/en/aisoc/people/kirsten/), [Bilal Zafar](https://informatik.rub.de/zafar/) with guest lectures from [Vedant Nanda](https://nvedant07.github.io) and [Felipe Vecchietti](https://lfelipesv.github.io).
