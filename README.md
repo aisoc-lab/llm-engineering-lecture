@@ -23,7 +23,8 @@ Every Monday between 08:30 - 12:00 in MB 0/105. Each lecture will be split as fo
 
 |    Date    |         Title         | 
 | ---------- | --------------------- |
-| 2026-04-13 | [Introduction](01_intro)      |
+| 2026-04-13 | [Introduction](01_intro)                                         |
+| 2026-04-20 | [The Transformer Architecture](02_transformer_architecture)      |
 
 ## Contact
 
