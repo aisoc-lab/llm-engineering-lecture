@@ -25,6 +25,8 @@ Every Monday between 08:30 - 12:00 in MB 0/105. Each lecture will be split as fo
 | ---------- | --------------------- |
 | 2026-04-13 | [Introduction](01_intro)                                         |
 | 2026-04-20 | [The Transformer Architecture](02_transformer_architecture)      |
+| 2026-04-27 | [Efficient Inference Part 1](03_efficient_inference_part_1)      |
+| 2026-05-04 | [Efficient Inference Part 2](04_efficient_inference_part_2)      |
 
 ## Contact
 
